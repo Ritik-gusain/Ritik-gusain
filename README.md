@@ -102,9 +102,9 @@ contract Ritik {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ritikg--portfolio.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://ritikg-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ritikg--portfolio.vercel.app-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/ritiks-projects-014f6fe3/portfolio-v2)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/munnigusain29684/)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ritik623290)
 
 </div>
 
