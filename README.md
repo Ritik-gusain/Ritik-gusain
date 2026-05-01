@@ -18,7 +18,7 @@ pragma solidity ^0.8.0;
 
 contract Ritik {
     string public role     = "Blockchain Developer & AI Engineer";
-    string public school   = "BCA '26 @ IITM, New Delhi";
+    
     string public focus    = "AI × Blockchain intersection";
     bool   public building = true;
 
